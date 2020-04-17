@@ -15,7 +15,7 @@ Station names and classs information are from [Taiwan Railways Administration Op
   https://www.railway.gov.tw/tra-tip-web/adr/about-public-info-3?&activePage=2<br/>
 Station names:  Statistics (annual report) Operations (2018 annual report) Passenger and Freight Traffic by Station<br/>
 Station classes:  Statistics (annual report) Operations (2018 annual report) Number of Stations (by Class)<br/>
-THSR Station name: As shown on THSR’s web site<br/>
+THSR Station name: As shown on THSR’s web site https://www.thsrc.com.tw/index.html<br/>
 Geodata:        OpenStreetMap (© OpenStreetMap contributors)
                 https://www.openstreetmap.org/copyright<br />
 
@@ -33,7 +33,7 @@ Geodata:        OpenStreetMap (© OpenStreetMap contributors)
          https://www.railway.gov.tw/tra-tip-web/adr/about-public-info-3?&activePage=2<br/>
 站名依據:	統計資料(年報) 營運(107年報) 各站客貨運起訖量<br/>
 等級依據:	統計資料(年報) 營運(107年報) 車站數(按等級別分)<br/>
-高鐵站名: 以台灣高鐵網頁所示為準<br/>
+高鐵站名: 以台灣高鐵網頁所示為準 https://www.thsrc.com.tw/index.html<br/>
 地理數據:	開放街圖 	© OpenStreetMap contributors
          https://www.openstreetmap.org/copyright <br/>
 
