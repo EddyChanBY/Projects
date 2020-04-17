@@ -14,7 +14,7 @@ This map does not include the following routes and stations
 Station names and classs information are fromTaiwan Railways Administration OpenData
                 https://www.railway.gov.tw/tra-tip-web/adr/about-public-info-3?&activePage=2<br/>
 Station names:  Statistics (annual report) Operations (2018 annual report) Passenger and Freight Traffic by Station<br/>
-Station class:  Statistics (annual report) Operations (2018 annual report) Number of Stations (by Class)<br/>
+Station classes:  Statistics (annual report) Operations (2018 annual report) Number of Stations (by Class)<br/>
 THSR Station name: As shown on THSR’s web site<br/>
 Geodata:        OpenStreetMap (© OpenStreetMap contributors)
                 https://www.openstreetmap.org/copyright<br />
