@@ -11,8 +11,7 @@ This map does not include the following routes and stations
 5.	Railway Yards, Freight Yards, Abolition Stations, Signal Stations (e.g. Fangye Station at South-link Line)
 
 <p>Sources<p>
-Station names and classs information are fromTaiwan Railways Administration OpenData
-                https://www.railway.gov.tw/tra-tip-web/adr/about-public-info-3?&activePage=2<br/>
+Station names and classs information are from [Taiwan Railways Administration OpenData](https://www.railway.gov.tw/tra-tip-web/adr/"about-public-info-3?&activePage=2")<br/>
 Station names:  Statistics (annual report) Operations (2018 annual report) Passenger and Freight Traffic by Station<br/>
 Station classes:  Statistics (annual report) Operations (2018 annual report) Number of Stations (by Class)<br/>
 THSR Station name: As shown on THSR’s web site<br/>
@@ -31,9 +30,9 @@ Geodata:        OpenStreetMap (© OpenStreetMap contributors)
 <p>資料來源:<p>
 臺灣鐵路管理局公開資訊
          https://www.railway.gov.tw/tra-tip-web/adr/about-public-info-3?&activePage=2<br />
-站名依據:	統計資料(年報) 營運(107年報) 各站客貨運起訖量<br />
-等級依據:	統計資料(年報) 營運(107年報) 車站數(按等級別分)<br />
-高鐵站名: 以台灣高鐵網頁所示為準<br\>
+站名依據:	統計資料(年報) 營運(107年報) 各站客貨運起訖量<br/>
+等級依據:	統計資料(年報) 營運(107年報) 車站數(按等級別分)<br/>
+高鐵站名: 以台灣高鐵網頁所示為準<br/>
 地理數據:	開放街圖 	© OpenStreetMap contributors
-         https://www.openstreetmap.org/copyright 
+         https://www.openstreetmap.org/copyright <br/>
 
