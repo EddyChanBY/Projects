@@ -1,6 +1,6 @@
-# SVG_files
-<p>To share svg files<p>
-The svg listed here are the Taiwan rail map inculding tracks and stations. The en is the English version and zh-TW is in traditional Chinese.
+# Taiwan Railway Map
+<p>To whoever found these useful to them.<p>
+The files listed here are the Taiwan rail map inculding tracks and stations. The en is the English version and zh-TW is in traditional Chinese.
 
 Remarks:
 This map does not include the following routes and stations
